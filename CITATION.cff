@@ -4,6 +4,7 @@ message: "If you use this software, please cite the associated manuscript."
 type: software
 title: "Code for Dual-Modal Respiratory Signal-Based Auxiliary Diagnostic Method for Pediatric Pneumonia"
 version: 1.0.0
+date-released: 2026-09-16
 license: MIT
 
 authors:
