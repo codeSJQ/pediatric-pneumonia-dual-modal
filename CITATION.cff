@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+repository-code: "https://github.com/codeSJQ/pediatric-pneumonia-dual-modal"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+title: "Code for Dual-Modal Respiratory Signal-Based Auxiliary Diagnostic Method for Pediatric Pneumonia"
+version: 1.0.0
+license: MIT
+
+authors:
+  - family-names: Shang
+    given-names: Jiqiang
+  - family-names: Ni
+    given-names: Qian
+  - family-names: Huang
+    given-names: Li
+  - family-names: Yuan
+    given-names: Zhengnan
+  - family-names: Li
+    given-names: Yuxia
+  - family-names: Cao
+    given-names: Pengfei
+  - family-names: Chen
+    given-names: Hansen
+  - family-names: Liang
+    given-names: Han
+  - family-names: Dai
+    given-names: Qing
+  - family-names: Ling
+    given-names: Jizu
+  - family-names: Ma
+    given-names: Guixia
+  - family-names: Ding
+    given-names: Xia
+  - family-names: Tian
+    given-names: Wenxia
+  - family-names: Yu
+    given-names: Mengqiang
+  - family-names: Hu
+    given-names: Bin
+  - family-names: Song
+    given-names: Ming
+  - family-names: Ma
+    given-names: Rong
+
+preferred-citation:
+  type: article
+  title: "Dual-Modal Respiratory Signal-Based Auxiliary Diagnostic Method for Pediatric Pneumonia"
+  authors:
+    - family-names: Shang
+      given-names: Jiqiang
+    - family-names: Ni
+      given-names: Qian
+    - family-names: Huang
+      given-names: Li
+    - family-names: Yuan
+      given-names: Zhengnan
+    - family-names: Li
+      given-names: Yuxia
+    - family-names: Cao
+      given-names: Pengfei
+    - family-names: Chen
+      given-names: Hansen
+    - family-names: Liang
+      given-names: Han
+    - family-names: Dai
+      given-names: Qing
+    - family-names: Ling
+      given-names: Jizu
+    - family-names: Ma
+      given-names: Guixia
+    - family-names: Ding
+      given-names: Xia
+    - family-names: Tian
+      given-names: Wenxia
+    - family-names: Yu
+      given-names: Mengqiang
+    - family-names: Hu
+      given-names: Bin
+    - family-names: Song
+      given-names: Ming
+    - family-names: Ma
+      given-names: Rong

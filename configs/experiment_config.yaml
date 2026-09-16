@@ -1,0 +1,29 @@
+{
+  "data": {
+    "asm_features": "data/ASM_features.csv",
+    "fosm_features": "data/FOSM_features.csv",
+    "labels": "data/labels.csv",
+    "fold_indices": "data/fold_indices.csv",
+    "id_column": "sample_id",
+    "label_column": "label"
+  },
+  "fusion": {
+    "latent_dim": 20,
+    "regularization": 0.01,
+    "asm_frequency_ranges": [[120, 393]],
+    "fosm_frequency_ranges": [[28, 42], [43, 68]]
+  },
+  "cross_validation": {
+    "folds": 5
+  },
+  "training": {
+    "smote_seed": 42,
+    "stacking_seed": 52
+  },
+  "explanation": {
+    "top_features": 20
+  },
+  "output": {
+    "directory": "outputs"
+  }
+}

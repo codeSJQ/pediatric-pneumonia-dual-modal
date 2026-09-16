@@ -1,0 +1,9 @@
+outputs/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# Participant-level research data must never be committed.
+data/*
+!data/README.md
